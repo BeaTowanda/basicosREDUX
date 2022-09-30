@@ -1,0 +1,64 @@
+.carrito{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 8rem;
+}
+
+.bag{
+    height: 3rem;
+    width: 3rem;
+    color:blue
+}
+.box{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    margin:2rem;
+    box-sizing: border-box;
+    
+
+}
+.cajaProductos{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding:2rem 4rem 2rem 3rem;
+    align-content: center;
+    justify-content: center;
+    align-items: center; 
+    color:blue; 
+    
+}
+.productoDes{
+    font-size: medium;
+}
+.nombreProd{
+    color:black;
+    background-color:darkturquoise;
+    text-transform: capitalize;
+}
+.agregar{
+    background-color:darkturquoise;
+    color:black;
+    width: 6rem;
+    height: 3rem;
+    border-radius: 5px;
+}
+.limpiaBoton{
+    width: 9rem;
+    height: 5rem;
+    background-color:darkblue;
+    color:antiquewhite;
+    align-items: center;
+    border-radius: 8px;
+}
+.contCarrito{
+    color:red;
+    font-size: larger;
+}
+.botonUno{
+    margin:1.5rem;
+    background-color:red;
+    color:bisque;
+    border-radius: 4px;
+}

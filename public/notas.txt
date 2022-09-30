@@ -1,0 +1,28 @@
+https://www.youtube.com/watch?v=Ul1bjSY0J3w
+
+------------
+ver desde 84 con los reducers
+-------------
+el react redux es para lo hooks
+----
+hay otro curso sobre redux que puede servir
+https://platzi.com/cursos/redux/
+--------------------
+https://www.youtube.com/watch?v=61kTiymg9a4
+este es carrito react-redux
+
+---------------
+para incorporar las devtools
+import { composeWithDevTools } from '@redux-devtools/extension';
+hay que hacer un install npm install @redux-devtools/extension para que funcionen.-
+----------------
+en json :
+  "eject": "react-scripts eject",
+    "fake-api":"json-server --watch src/api/db.json --port 5000".-
+acordarse de ejecutar npm run fake-appi 
+--------------------
+
+VER CrudActions con CrudApi así funcionan bien.-
+se puede mejorar para que sea más dogmáti CON redux
+entonces usar CrudApiX y CrudActionsX 
+----------------

@@ -1,0 +1,20 @@
+.click{
+    background-color: darkgreen;
+    width: 4rem;
+    margin:1rem;
+    height: 2.5rem;
+    border-radius: 4px;
+    font-weight: bolder;
+    font-size: xx-large;
+    cursor:pointer;
+
+}
+.click:hover{
+    background-color: chartreuse;
+}
+.resetea{
+    background-color: cadetblue;
+}
+.menos{
+    background-color: red;
+}
